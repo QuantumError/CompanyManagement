@@ -1,10 +1,8 @@
-##Introduction
+# Introduction
 
 This is a small FastAPI backend with SQLAlchemy and SQLite database. It features and ETL pipeline that can read .csv files into the database.
 
-##Walkthrough
-
-##Conclusion
+# How to use
 
 This project uses FastAPI with SQLite and SQLAlchemy, with a CRUD architecture and ETL pipelines.
 The project is only a backend, without clear visuals, but you can try it out with
